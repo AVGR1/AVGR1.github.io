@@ -16,7 +16,7 @@ Our AI enabled software help retail chains to monitor daily activities in real-t
 We regularly hold AI/ML workshops to train SMEs businesses across India. And, help the management to identify and deploy emerging technologies in their domain.
 
 
-## Startup Emgagement
+## Startup Engagement
 We identify the right startup teams not just the product in emerging markets like India, Sri Lanka and Philippines. 
 This include building relationships with the founders, bridging the gap between startups and investors, and providing the correct infrastructure.
 
