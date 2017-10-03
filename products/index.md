@@ -13,10 +13,10 @@ We connect the leading researchers  and data scientist from UK/Europe to build t
 Our AI enabled software help retail chains to monitor daily activities in real-time from anywhere. 
 
 ## Consulting & Training
-We regularly hold AI/ML workshops to train SMEs businesses across India. Also, we help the management to deploy and identify emerging technologies to be competitve.
+We regularly hold AI/ML workshops to train SMEs businesses across India. And, help the management to identify and deploy emerging technologies in their domain.
 
 
-## StartupEN
+## Startup Emgagement
 We identify the right startup teams not just the product in emerging markets like India, Sri Lanka and Philippines. 
 This include building relationships with the founders, bridging the gap between startups and investors, and providing the correct infrastructure.
 
