@@ -9,9 +9,6 @@ comments: false
 ## MetaTensor
 We connect the leading researchers  and data scientist from UK/Europe to build the state-of-the-art AI models through this platform. Please visit [metatensor.com](http://metatensor.com/) to know more.
 
-## RetailAI
-Our AI enabled software help retail chains to monitor daily activities in real-time from anywhere. 
-
 ## Consulting & Training
 We regularly hold AI/ML workshops to train SMEs businesses across India. And, help the management to identify and deploy emerging technologies in their domain.
 
